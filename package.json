@@ -1,0 +1,14 @@
+{
+  "name": "calendar-backend",
+  "version": "0.0.1",
+  "description": "A calendar!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
