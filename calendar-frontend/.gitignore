@@ -1,3 +1,22 @@
+We created a base angular project
+We then created a basic express static page server
+We then wrote build scripts to build the angular frontend
+We then moved it to the folder where express is looking to serve static content from
+We then created a github to host the repository
+We created a heroku application that looks at the github repository to auto deploy
+Heroku grabs the entire repository, and runs the build scripts we created
+Heroku runs the backend with the start command we created.
+
+
+
+
+
+
+!src/index.js search for express static serve on google!
+
+
+276421 276026 276394
+
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Compiled output
